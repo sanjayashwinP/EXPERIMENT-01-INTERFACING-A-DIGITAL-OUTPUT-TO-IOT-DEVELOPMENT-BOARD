@@ -127,7 +127,10 @@ int main(void)
 
 ## OUTPUT
 
+### LED ON
 ![iot ex1](https://github.com/user-attachments/assets/fe488d2c-1f76-4c76-9b82-4580cb936517)
+
+### LED OFF
 ![iot ex1 2](https://github.com/user-attachments/assets/8f5fb114-0406-4457-9847-78734275bd1f)
 
 
